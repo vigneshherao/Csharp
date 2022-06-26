@@ -1,0 +1,15 @@
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.exe
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.deps.json
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.runtimeconfig.json
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.dll
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\bin\Debug\net6.0\MyConsoleApp1.pdb
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.AssemblyInfo.cs
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.dll
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\refint\MyConsoleApp1.dll
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.pdb
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\MyConsoleApp1.genruntimeconfig.cache
+C:\Users\vignesh\Desktop\skill_House\MyConsoleApp1\obj\Debug\net6.0\ref\MyConsoleApp1.dll
